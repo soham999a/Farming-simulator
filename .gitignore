@@ -22,3 +22,15 @@ build/
 *.njsproj
 *.sln
 *.sw?
+
+# Windows specific files and large binaries
+node-v20.11.0-win-x64/
+node-portable.zip
+nodejs.msi
+npm
+run-dev.bat
+set
+README-EPIC.md
+*.zip
+*.msi
+*.exe
