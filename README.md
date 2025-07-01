@@ -4,7 +4,7 @@ An immersive 3D farming simulator built with React, Three.js, and modern web tec
 
 ## 🎮 Live Demo
 
-🚀 **[Play Now on Vercel]([https://farming-simulator-soham999a.vercel.app](https://farming-simulator-one.vercel.app/))** 
+https://farming-simulator-one.vercel.app/ 
 
 ## ✨ Features
 
